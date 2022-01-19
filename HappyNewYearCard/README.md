@@ -33,7 +33,6 @@ xml
             android:padding="@dimen/padding_eight"
             android:src="@drawable/dice_empty"
             tools:src="@drawable/dice5" />
-		
 
 
 License
