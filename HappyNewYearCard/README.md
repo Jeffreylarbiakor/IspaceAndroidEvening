@@ -2,16 +2,16 @@
  Evening Repository
 
 Public repository
-![Screenshot](https://github.com/KingElias-1/iSpaceAndroid/blob/main/HappyNewYearCard/Screenshot%20(41).png)
+![TheMaster](https://github.com/Mawuli87/IspaceAndroid/blob/main/HappyNewYearCard/Screenshot%202.png)
 
-It uses a BitmapShader and *does not*:
+It uses a BitmapShader and **does not**:
 * create a copy of the original bitmap
 * use a clipPath (which is neither hardware accelerated nor anti-aliased)
 * use setXfermode to clip the bitmap (which means drawing twice to the canvas)
 
 Gradle
 ------
-
+```
 dependencies {
     ...
     implementation 'androidx.core:core-ktx:1.3.0'
@@ -19,7 +19,7 @@ dependencies {
     implementation 'androidx.constraintlayout:constraintlayout:1.1.3'
     implementation 'com.google.android.material:material:1.4.0'
 }
-
+```
 
 Usage
 -----
