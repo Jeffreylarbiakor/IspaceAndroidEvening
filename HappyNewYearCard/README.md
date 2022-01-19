@@ -21,9 +21,9 @@ dependencies {
 }
 ```
 
-Usage
+ Usage
 -----
-xml
+```xml
  <ImageView
             android:id="@+id/image_view_dice_one"
             android:layout_width="wrap_content"
@@ -33,7 +33,8 @@ xml
             android:padding="@dimen/padding_eight"
             android:src="@drawable/dice_empty"
             tools:src="@drawable/dice5" />
-
+		
+```
 
 License
 -------
