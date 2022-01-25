@@ -3,7 +3,7 @@
 
 Public repository
 ![TheMaster](https://github.com/Jeffreylarbiakor/IspaceAndroidEvening/blob/main/RecyclerViewAdapterEvening/Main-Activity.jpg)
-![TheMaster](https://github.com/Jeffreylarbiakor/IspaceAndroidEvening/blob/main/RecyclerViewAdapterEvening/Main-Activity.jpg)
+![TheMaster](https://github.com/Jeffreylarbiakor/IspaceAndroidEvening/blob/main/RecyclerViewAdapterEvening/Image-Card-Layout-xml.jpg)
 
 
 It uses a BitmapShader and **does not**:
