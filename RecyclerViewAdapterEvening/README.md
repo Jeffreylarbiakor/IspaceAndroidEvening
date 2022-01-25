@@ -2,7 +2,9 @@
  Evening Repository
 
 Public repository
-![TheMaster](https://github.com/Jeffreylarbiakor/IspaceAndroidEvening/blob/main/HappyNewYearCard/Jeff_screenshot.jpg)
+![TheMaster](https://github.com/Jeffreylarbiakor/IspaceAndroidEvening/blob/main/RecyclerViewAdapterEvening/Main-Activity.jpg)
+![TheMaster](https://github.com/Jeffreylarbiakor/IspaceAndroidEvening/blob/main/RecyclerViewAdapterEvening/Main-Activity.jpg)
+
 
 It uses a BitmapShader and **does not**:
 * create a copy of the original bitmap
